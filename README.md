@@ -6,6 +6,9 @@
 - **breve descripción**: El objetivo de este proyecto es examinar las propiedades de los remolinos en la zona de confluencia Brasil-Malvinas a partir de datos de altimetría y analizar si ha habido cambios en un periodo de 20-30 años.
 - **Lenguaje**: Python
 
+![image](https://github.com/user-attachments/assets/4f65e7e2-0c92-45d6-8da1-af7f79e2d54e)
+
+
 ## Datos
 
 La fuente principal de datos es el producto `SEALEVEL_GLO_PHY_L4_MY_008_047`: "Global Ocean Gridded L 4 Sea Surface Heights And Derived Variables Reprocessed 1993 Ongoing", DOI: [10.48670/moi-00148](https://doi.org/10.48670/moi-00148).
